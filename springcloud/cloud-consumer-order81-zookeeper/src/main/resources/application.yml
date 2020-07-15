@@ -1,0 +1,9 @@
+server:
+  port: 81
+
+spring:
+  application:
+    name: cloud-order-service
+  cloud:
+    zookeeper:
+      connect-string: hadoop1:2181,hadoop2:2181,hadoop3:2181

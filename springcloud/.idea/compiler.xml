@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="cloudalibaba-seata-storage-servcie2002" />
+        <module name="cloudalibaba-provider-payment9004" />
+        <module name="cloudalibaba-provider-payment9003" />
+        <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloudalibaba-provider-payment9001" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
+        <module name="cloud-provider-payment8002" />
+        <module name="cloud-provider-payment8001" />
+        <module name="cloudalibaba-seata-order-servcie2001" />
+        <module name="cloud-consumer-order81-feign" />
+        <module name="cloud-consumer-order81-consul" />
+        <module name="cloud-consumer-order81-zookeeper" />
+        <module name="cloudalibaba-seata-account-service2003" />
+        <module name="cloud-provider-payment8006-consul" />
+        <module name="cloud-consumer-order81-feign-hystrix" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
+        <module name="cloud-provider-payment8004-zookeeper" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="cloudalibaba-consumer-nacos-order84" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-provider-payment8001-hystrix" />
+        <module name="cloud-consumer-order81" />
+        <module name="cloud-gateway-9527" />
+        <module name="cloudalibaba-sentinel-serivce8401" />
+        <module name="cloud-eureka-server-7003" />
+        <module name="cloud-eureka-server-7002" />
+        <module name="cloud-eureka-server-7001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config-center-3344" target="1.8" />
+      <module name="cloud-config-client-3366" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
